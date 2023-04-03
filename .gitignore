@@ -1,0 +1,14 @@
+node_modules
+
+# upload file
+upload
+
+# data
+velops-data
+
+.idea
+package-lock.json
+
+config/dbsimop.js
+
+/buildspec.yml

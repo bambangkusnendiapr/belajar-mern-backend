@@ -16,6 +16,6 @@ const Product = db.define('products', {
 
 export default Product;
 
-(async() => {
-    await db.sync()
-})();
+// (async() => {
+//     await db.sync()
+// })();
